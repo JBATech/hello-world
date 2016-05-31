@@ -12,4 +12,4 @@
     <p>Don't wait, apply now! Our crazy team is waiting for you right  meow!</p>
   </body>
 </html>
-This time we have had to use a special tag <meta> with the attribute charset and given i
+
